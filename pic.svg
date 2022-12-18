@@ -1,0 +1,953 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="460.8pt" height="345.6pt" viewBox="0 0 460.8 345.6" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2022-12-18T18:31:34.538676</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.5.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 345.6 
+L 460.8 345.6 
+L 460.8 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 57.6 307.584 
+L 414.72 307.584 
+L 414.72 41.472 
+L 57.6 41.472 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="PathCollection_1">
+    <defs>
+     <path id="mf9ca620b50" d="M 0 1.936492 
+C 0.513564 1.936492 1.006162 1.732451 1.369306 1.369306 
+C 1.732451 1.006162 1.936492 0.513564 1.936492 0 
+C 1.936492 -0.513564 1.732451 -1.006162 1.369306 -1.369306 
+C 1.006162 -1.732451 0.513564 -1.936492 0 -1.936492 
+C -0.513564 -1.936492 -1.006162 -1.732451 -1.369306 -1.369306 
+C -1.732451 -1.006162 -1.936492 -0.513564 -1.936492 0 
+C -1.936492 0.513564 -1.732451 1.006162 -1.369306 1.369306 
+C -1.006162 1.732451 -0.513564 1.936492 0 1.936492 
+z
+" style="stroke: #ff9900"/>
+    </defs>
+    <g clip-path="url(#p8eb77f53d9)">
+     <use xlink:href="#mf9ca620b50" x="73.832727" y="57.271893" style="fill: #ff9900; stroke: #ff9900"/>
+     <use xlink:href="#mf9ca620b50" x="112.334472" y="101.186298" style="fill: #ff9900; stroke: #ff9900"/>
+     <use xlink:href="#mf9ca620b50" x="191.40444" y="57.271893" style="fill: #ff9900; stroke: #ff9900"/>
+     <use xlink:href="#mf9ca620b50" x="243.501434" y="109.969179" style="fill: #ff9900; stroke: #ff9900"/>
+     <use xlink:href="#mf9ca620b50" x="256.552873" y="105.577738" style="fill: #ff9900; stroke: #ff9900"/>
+     <use xlink:href="#mf9ca620b50" x="264.166213" y="123.1435" style="fill: #ff9900; stroke: #ff9900"/>
+     <use xlink:href="#mf9ca620b50" x="268.299169" y="114.360619" style="fill: #ff9900; stroke: #ff9900"/>
+     <use xlink:href="#mf9ca620b50" x="269.386788" y="127.534941" style="fill: #ff9900; stroke: #ff9900"/>
+     <use xlink:href="#mf9ca620b50" x="348.67428" y="101.186298" style="fill: #ff9900; stroke: #ff9900"/>
+     <use xlink:href="#mf9ca620b50" x="362.595815" y="105.577738" style="fill: #ff9900; stroke: #ff9900"/>
+     <use xlink:href="#mf9ca620b50" x="363.792197" y="105.577738" style="fill: #ff9900; stroke: #ff9900"/>
+     <use xlink:href="#mf9ca620b50" x="375.97354" y="105.577738" style="fill: #ff9900; stroke: #ff9900"/>
+     <use xlink:href="#mf9ca620b50" x="394.898127" y="101.186298" style="fill: #ff9900; stroke: #ff9900"/>
+     <use xlink:href="#mf9ca620b50" x="398.487273" y="101.186298" style="fill: #ff9900; stroke: #ff9900"/>
+    </g>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1">
+      <defs>
+       <path id="m5bb07f45f5" d="M 0 0 
+L 0 3.5 
+" style="stroke: #000000; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#m5bb07f45f5" x="81.989877" y="307.584" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_1">
+      <!-- 12-16 18 -->
+      <g transform="translate(65.401752 320.664)scale(0.08 -0.08)">
+       <defs>
+        <path id="AlibabaPuHuiTi-Regular-31" d="M 1747 3917 
+L 646 3706 
+L 646 4173 
+L 1946 4442 
+L 2323 4442 
+L 2323 0 
+L 1747 0 
+L 1747 3917 
+z
+" transform="scale(0.015625)"/>
+        <path id="AlibabaPuHuiTi-Regular-32" d="M 365 608 
+Q 1075 1165 1504 1555 
+Q 1933 1946 2169 2240 
+Q 2406 2534 2483 2768 
+Q 2560 3002 2560 3238 
+Q 2560 3475 2473 3628 
+Q 2387 3782 2252 3872 
+Q 2118 3962 1948 3994 
+Q 1779 4026 1619 4026 
+Q 1408 4026 1171 4003 
+Q 934 3981 672 3910 
+L 672 4403 
+Q 896 4454 1149 4480 
+Q 1402 4506 1683 4506 
+Q 2010 4506 2272 4435 
+Q 2534 4365 2723 4211 
+Q 2912 4058 3011 3814 
+Q 3110 3571 3110 3232 
+Q 3110 2931 3020 2665 
+Q 2931 2400 2720 2115 
+Q 2509 1830 2150 1500 
+Q 1792 1171 1254 742 
+L 998 544 
+L 998 486 
+L 3290 486 
+L 3290 0 
+L 365 0 
+L 365 608 
+z
+" transform="scale(0.015625)"/>
+        <path id="AlibabaPuHuiTi-Regular-2d" d="M 461 2195 
+L 2349 2195 
+L 2349 1734 
+L 461 1734 
+L 461 2195 
+z
+" transform="scale(0.015625)"/>
+        <path id="AlibabaPuHuiTi-Regular-36" d="M 1837 -64 
+Q 1530 -64 1264 22 
+Q 998 109 796 313 
+Q 595 518 480 860 
+Q 365 1203 365 1722 
+Q 365 2342 502 2854 
+Q 640 3366 928 3734 
+Q 1216 4102 1667 4304 
+Q 2118 4506 2746 4506 
+L 2739 4019 
+Q 2330 4019 2010 3904 
+Q 1690 3789 1466 3587 
+Q 1242 3386 1114 3114 
+Q 986 2842 960 2528 
+L 979 2528 
+Q 1107 2656 1356 2774 
+Q 1606 2893 1933 2893 
+Q 2554 2893 2918 2541 
+Q 3283 2189 3283 1459 
+Q 3283 1133 3196 854 
+Q 3110 576 2934 371 
+Q 2758 166 2483 51 
+Q 2208 -64 1837 -64 
+z
+M 1830 416 
+Q 2285 416 2521 675 
+Q 2758 934 2758 1459 
+Q 2758 1958 2521 2204 
+Q 2285 2451 1907 2451 
+Q 1389 2451 1152 2204 
+Q 915 1958 915 1562 
+Q 915 416 1830 416 
+z
+" transform="scale(0.015625)"/>
+        <path id="AlibabaPuHuiTi-Regular-20" transform="scale(0.015625)"/>
+        <path id="AlibabaPuHuiTi-Regular-38" d="M 1837 -64 
+Q 1120 -64 720 237 
+Q 320 538 320 1178 
+Q 320 1434 390 1622 
+Q 461 1811 573 1942 
+Q 685 2074 825 2154 
+Q 966 2234 1107 2285 
+L 1107 2310 
+Q 826 2438 646 2672 
+Q 467 2906 467 3322 
+Q 467 3584 547 3801 
+Q 627 4019 793 4176 
+Q 960 4333 1219 4419 
+Q 1478 4506 1837 4506 
+Q 2195 4506 2454 4419 
+Q 2714 4333 2880 4176 
+Q 3046 4019 3126 3801 
+Q 3206 3584 3206 3322 
+Q 3206 2918 3049 2678 
+Q 2893 2438 2566 2310 
+L 2566 2285 
+Q 2726 2234 2870 2154 
+Q 3014 2074 3123 1939 
+Q 3232 1805 3293 1616 
+Q 3354 1427 3354 1171 
+Q 3354 531 2957 233 
+Q 2560 -64 1837 -64 
+z
+M 1837 2496 
+Q 2074 2496 2237 2557 
+Q 2400 2618 2499 2726 
+Q 2598 2835 2643 2976 
+Q 2688 3117 2688 3283 
+Q 2688 3648 2477 3846 
+Q 2266 4045 1837 4045 
+Q 986 4045 986 3283 
+Q 986 3117 1024 2976 
+Q 1062 2835 1161 2726 
+Q 1261 2618 1424 2557 
+Q 1587 2496 1837 2496 
+z
+M 1837 403 
+Q 2362 403 2592 617 
+Q 2822 832 2822 1197 
+Q 2822 1651 2579 1862 
+Q 2336 2074 1837 2074 
+Q 1338 2074 1098 1862 
+Q 858 1651 858 1197 
+Q 858 832 1085 617 
+Q 1312 403 1837 403 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#AlibabaPuHuiTi-Regular-31"/>
+       <use xlink:href="#AlibabaPuHuiTi-Regular-32" x="57.499985"/>
+       <use xlink:href="#AlibabaPuHuiTi-Regular-2d" x="114.999969"/>
+       <use xlink:href="#AlibabaPuHuiTi-Regular-31" x="158.999954"/>
+       <use xlink:href="#AlibabaPuHuiTi-Regular-36" x="216.499939"/>
+       <use xlink:href="#AlibabaPuHuiTi-Regular-20" x="273.999924"/>
+       <use xlink:href="#AlibabaPuHuiTi-Regular-31" x="299.699921"/>
+       <use xlink:href="#AlibabaPuHuiTi-Regular-38" x="357.199905"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_2">
+      <g>
+       <use xlink:href="#m5bb07f45f5" x="121.144194" y="307.584" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_2">
+      <!-- 12-17 00 -->
+      <g transform="translate(104.556069 320.664)scale(0.08 -0.08)">
+       <defs>
+        <path id="AlibabaPuHuiTi-Regular-37" d="M 2784 3942 
+L 346 3942 
+L 346 4442 
+L 3277 4442 
+L 3277 3878 
+L 1453 0 
+L 864 0 
+L 2784 3942 
+z
+" transform="scale(0.015625)"/>
+        <path id="AlibabaPuHuiTi-Regular-30" d="M 1837 -64 
+Q 1504 -64 1229 35 
+Q 954 134 755 390 
+Q 557 646 448 1091 
+Q 339 1536 339 2221 
+Q 339 2906 448 3347 
+Q 557 3789 755 4048 
+Q 954 4307 1229 4406 
+Q 1504 4506 1837 4506 
+Q 2170 4506 2448 4406 
+Q 2726 4307 2924 4048 
+Q 3123 3789 3232 3347 
+Q 3341 2906 3341 2221 
+Q 3341 1536 3232 1091 
+Q 3123 646 2924 390 
+Q 2726 134 2448 35 
+Q 2170 -64 1837 -64 
+z
+M 1837 416 
+Q 2074 416 2246 496 
+Q 2419 576 2534 781 
+Q 2650 986 2704 1334 
+Q 2758 1683 2758 2221 
+Q 2758 2752 2704 3101 
+Q 2650 3450 2534 3654 
+Q 2419 3859 2246 3939 
+Q 2074 4019 1837 4019 
+Q 1606 4019 1433 3939 
+Q 1261 3859 1149 3654 
+Q 1037 3450 982 3101 
+Q 928 2752 928 2221 
+Q 928 1683 982 1334 
+Q 1037 986 1149 781 
+Q 1261 576 1433 496 
+Q 1606 416 1837 416 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#AlibabaPuHuiTi-Regular-31"/>
+       <use xlink:href="#AlibabaPuHuiTi-Regular-32" x="57.499985"/>
+       <use xlink:href="#AlibabaPuHuiTi-Regular-2d" x="114.999969"/>
+       <use xlink:href="#AlibabaPuHuiTi-Regular-31" x="158.999954"/>
+       <use xlink:href="#AlibabaPuHuiTi-Regular-37" x="216.499939"/>
+       <use xlink:href="#AlibabaPuHuiTi-Regular-20" x="273.999924"/>
+       <use xlink:href="#AlibabaPuHuiTi-Regular-30" x="299.699921"/>
+       <use xlink:href="#AlibabaPuHuiTi-Regular-30" x="357.199905"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_3">
+      <g>
+       <use xlink:href="#m5bb07f45f5" x="160.298511" y="307.584" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_3">
+      <!-- 12-17 06 -->
+      <g transform="translate(143.710386 320.664)scale(0.08 -0.08)">
+       <use xlink:href="#AlibabaPuHuiTi-Regular-31"/>
+       <use xlink:href="#AlibabaPuHuiTi-Regular-32" x="57.499985"/>
+       <use xlink:href="#AlibabaPuHuiTi-Regular-2d" x="114.999969"/>
+       <use xlink:href="#AlibabaPuHuiTi-Regular-31" x="158.999954"/>
+       <use xlink:href="#AlibabaPuHuiTi-Regular-37" x="216.499939"/>
+       <use xlink:href="#AlibabaPuHuiTi-Regular-20" x="273.999924"/>
+       <use xlink:href="#AlibabaPuHuiTi-Regular-30" x="299.699921"/>
+       <use xlink:href="#AlibabaPuHuiTi-Regular-36" x="357.199905"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="line2d_4">
+      <g>
+       <use xlink:href="#m5bb07f45f5" x="199.452828" y="307.584" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_4">
+      <!-- 12-17 12 -->
+      <g transform="translate(182.864703 320.664)scale(0.08 -0.08)">
+       <use xlink:href="#AlibabaPuHuiTi-Regular-31"/>
+       <use xlink:href="#AlibabaPuHuiTi-Regular-32" x="57.499985"/>
+       <use xlink:href="#AlibabaPuHuiTi-Regular-2d" x="114.999969"/>
+       <use xlink:href="#AlibabaPuHuiTi-Regular-31" x="158.999954"/>
+       <use xlink:href="#AlibabaPuHuiTi-Regular-37" x="216.499939"/>
+       <use xlink:href="#AlibabaPuHuiTi-Regular-20" x="273.999924"/>
+       <use xlink:href="#AlibabaPuHuiTi-Regular-31" x="299.699921"/>
+       <use xlink:href="#AlibabaPuHuiTi-Regular-32" x="357.199905"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_5">
+     <g id="line2d_5">
+      <g>
+       <use xlink:href="#m5bb07f45f5" x="238.607145" y="307.584" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_5">
+      <!-- 12-17 18 -->
+      <g transform="translate(222.01902 320.664)scale(0.08 -0.08)">
+       <use xlink:href="#AlibabaPuHuiTi-Regular-31"/>
+       <use xlink:href="#AlibabaPuHuiTi-Regular-32" x="57.499985"/>
+       <use xlink:href="#AlibabaPuHuiTi-Regular-2d" x="114.999969"/>
+       <use xlink:href="#AlibabaPuHuiTi-Regular-31" x="158.999954"/>
+       <use xlink:href="#AlibabaPuHuiTi-Regular-37" x="216.499939"/>
+       <use xlink:href="#AlibabaPuHuiTi-Regular-20" x="273.999924"/>
+       <use xlink:href="#AlibabaPuHuiTi-Regular-31" x="299.699921"/>
+       <use xlink:href="#AlibabaPuHuiTi-Regular-38" x="357.199905"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_6">
+     <g id="line2d_6">
+      <g>
+       <use xlink:href="#m5bb07f45f5" x="277.761462" y="307.584" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_6">
+      <!-- 12-18 00 -->
+      <g transform="translate(261.173337 320.664)scale(0.08 -0.08)">
+       <use xlink:href="#AlibabaPuHuiTi-Regular-31"/>
+       <use xlink:href="#AlibabaPuHuiTi-Regular-32" x="57.499985"/>
+       <use xlink:href="#AlibabaPuHuiTi-Regular-2d" x="114.999969"/>
+       <use xlink:href="#AlibabaPuHuiTi-Regular-31" x="158.999954"/>
+       <use xlink:href="#AlibabaPuHuiTi-Regular-38" x="216.499939"/>
+       <use xlink:href="#AlibabaPuHuiTi-Regular-20" x="273.999924"/>
+       <use xlink:href="#AlibabaPuHuiTi-Regular-30" x="299.699921"/>
+       <use xlink:href="#AlibabaPuHuiTi-Regular-30" x="357.199905"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_7">
+     <g id="line2d_7">
+      <g>
+       <use xlink:href="#m5bb07f45f5" x="316.915779" y="307.584" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_7">
+      <!-- 12-18 06 -->
+      <g transform="translate(300.327654 320.664)scale(0.08 -0.08)">
+       <use xlink:href="#AlibabaPuHuiTi-Regular-31"/>
+       <use xlink:href="#AlibabaPuHuiTi-Regular-32" x="57.499985"/>
+       <use xlink:href="#AlibabaPuHuiTi-Regular-2d" x="114.999969"/>
+       <use xlink:href="#AlibabaPuHuiTi-Regular-31" x="158.999954"/>
+       <use xlink:href="#AlibabaPuHuiTi-Regular-38" x="216.499939"/>
+       <use xlink:href="#AlibabaPuHuiTi-Regular-20" x="273.999924"/>
+       <use xlink:href="#AlibabaPuHuiTi-Regular-30" x="299.699921"/>
+       <use xlink:href="#AlibabaPuHuiTi-Regular-36" x="357.199905"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_8">
+     <g id="line2d_8">
+      <g>
+       <use xlink:href="#m5bb07f45f5" x="356.070096" y="307.584" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_8">
+      <!-- 12-18 12 -->
+      <g transform="translate(339.481971 320.664)scale(0.08 -0.08)">
+       <use xlink:href="#AlibabaPuHuiTi-Regular-31"/>
+       <use xlink:href="#AlibabaPuHuiTi-Regular-32" x="57.499985"/>
+       <use xlink:href="#AlibabaPuHuiTi-Regular-2d" x="114.999969"/>
+       <use xlink:href="#AlibabaPuHuiTi-Regular-31" x="158.999954"/>
+       <use xlink:href="#AlibabaPuHuiTi-Regular-38" x="216.499939"/>
+       <use xlink:href="#AlibabaPuHuiTi-Regular-20" x="273.999924"/>
+       <use xlink:href="#AlibabaPuHuiTi-Regular-31" x="299.699921"/>
+       <use xlink:href="#AlibabaPuHuiTi-Regular-32" x="357.199905"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_9">
+     <g id="line2d_9">
+      <g>
+       <use xlink:href="#m5bb07f45f5" x="395.224413" y="307.584" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_9">
+      <!-- 12-18 18 -->
+      <g transform="translate(378.636288 320.664)scale(0.08 -0.08)">
+       <use xlink:href="#AlibabaPuHuiTi-Regular-31"/>
+       <use xlink:href="#AlibabaPuHuiTi-Regular-32" x="57.499985"/>
+       <use xlink:href="#AlibabaPuHuiTi-Regular-2d" x="114.999969"/>
+       <use xlink:href="#AlibabaPuHuiTi-Regular-31" x="158.999954"/>
+       <use xlink:href="#AlibabaPuHuiTi-Regular-38" x="216.499939"/>
+       <use xlink:href="#AlibabaPuHuiTi-Regular-20" x="273.999924"/>
+       <use xlink:href="#AlibabaPuHuiTi-Regular-31" x="299.699921"/>
+       <use xlink:href="#AlibabaPuHuiTi-Regular-38" x="357.199905"/>
+      </g>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_10">
+      <defs>
+       <path id="m88c014bb29" d="M 0 0 
+L -3.5 0 
+" style="stroke: #000000; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#m88c014bb29" x="57.6" y="307.584" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_10">
+      <!-- 33℃ -->
+      <g transform="translate(25.77125 312.144)scale(0.12 -0.12)">
+       <defs>
+        <path id="AlibabaPuHuiTi-Regular-33" d="M 1446 -64 
+Q 1178 -64 925 -45 
+Q 672 -26 448 19 
+L 448 525 
+Q 704 461 944 438 
+Q 1184 416 1440 416 
+Q 1690 416 1904 454 
+Q 2118 493 2272 589 
+Q 2426 685 2515 841 
+Q 2605 998 2605 1229 
+Q 2605 1702 2285 1888 
+Q 1965 2074 1331 2074 
+L 979 2074 
+L 979 2515 
+L 1325 2515 
+Q 1907 2515 2208 2729 
+Q 2509 2944 2509 3309 
+Q 2509 3699 2275 3865 
+Q 2042 4032 1562 4032 
+Q 1370 4032 1120 4000 
+Q 870 3968 659 3904 
+L 659 4378 
+Q 826 4429 1078 4467 
+Q 1331 4506 1587 4506 
+Q 2304 4506 2672 4230 
+Q 3040 3955 3040 3341 
+Q 3040 2906 2829 2672 
+Q 2618 2438 2253 2330 
+L 2253 2291 
+Q 2726 2208 2940 1936 
+Q 3155 1664 3155 1222 
+Q 3155 608 2742 272 
+Q 2330 -64 1446 -64 
+z
+" transform="scale(0.015625)"/>
+        <path id="AlibabaPuHuiTi-Regular-2103" d="M 4531 -64 
+Q 4070 -64 3699 32 
+Q 3328 128 3062 381 
+Q 2797 634 2653 1078 
+Q 2509 1523 2509 2221 
+Q 2509 2861 2656 3299 
+Q 2803 3738 3072 4006 
+Q 3341 4275 3728 4390 
+Q 4115 4506 4595 4506 
+Q 4902 4506 5129 4474 
+Q 5357 4442 5555 4378 
+L 5555 3846 
+Q 5363 3917 5132 3958 
+Q 4902 4000 4608 4000 
+Q 4230 4000 3948 3910 
+Q 3667 3821 3481 3613 
+Q 3296 3405 3203 3069 
+Q 3110 2733 3110 2234 
+Q 3110 1702 3196 1360 
+Q 3283 1018 3459 816 
+Q 3635 614 3907 534 
+Q 4179 454 4550 454 
+Q 4864 454 5107 496 
+Q 5350 538 5606 627 
+L 5606 128 
+Q 5421 45 5145 -9 
+Q 4870 -64 4531 -64 
+z
+M 1158 2432 
+Q 947 2432 758 2515 
+Q 570 2598 429 2739 
+Q 288 2880 208 3069 
+Q 128 3258 128 3469 
+Q 128 3680 208 3869 
+Q 288 4058 429 4195 
+Q 570 4333 758 4416 
+Q 947 4499 1158 4499 
+Q 1370 4499 1558 4416 
+Q 1747 4333 1888 4195 
+Q 2029 4058 2112 3869 
+Q 2195 3680 2195 3469 
+Q 2195 3258 2112 3069 
+Q 2029 2880 1888 2739 
+Q 1747 2598 1558 2515 
+Q 1370 2432 1158 2432 
+z
+M 1158 2918 
+Q 1389 2918 1549 3078 
+Q 1709 3238 1709 3469 
+Q 1709 3693 1549 3853 
+Q 1389 4013 1158 4013 
+Q 1043 4013 944 3971 
+Q 845 3930 771 3856 
+Q 698 3782 653 3683 
+Q 608 3584 608 3469 
+Q 608 3354 653 3254 
+Q 698 3155 771 3078 
+Q 845 3002 944 2960 
+Q 1043 2918 1158 2918 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#AlibabaPuHuiTi-Regular-33"/>
+       <use xlink:href="#AlibabaPuHuiTi-Regular-33" x="57.499985"/>
+       <use xlink:href="#AlibabaPuHuiTi-Regular-2103" x="114.999969"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_11">
+      <g>
+       <use xlink:href="#m88c014bb29" x="57.6" y="263.669595" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_11">
+      <!-- 34℃ -->
+      <g transform="translate(25.77125 268.229595)scale(0.12 -0.12)">
+       <defs>
+        <path id="AlibabaPuHuiTi-Regular-34" d="M 3386 1094 
+L 2861 1094 
+L 2861 0 
+L 2323 0 
+L 2323 1094 
+L 224 1094 
+L 224 1715 
+L 2170 4442 
+L 2861 4442 
+L 2861 1581 
+L 3386 1581 
+L 3386 1094 
+z
+M 2323 1581 
+L 2323 3853 
+L 2285 3853 
+L 710 1619 
+L 710 1581 
+L 2323 1581 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#AlibabaPuHuiTi-Regular-33"/>
+       <use xlink:href="#AlibabaPuHuiTi-Regular-34" x="57.499985"/>
+       <use xlink:href="#AlibabaPuHuiTi-Regular-2103" x="114.999969"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="line2d_12">
+      <g>
+       <use xlink:href="#m88c014bb29" x="57.6" y="219.755191" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_12">
+      <!-- 35℃ -->
+      <g transform="translate(25.77125 224.315191)scale(0.12 -0.12)">
+       <defs>
+        <path id="AlibabaPuHuiTi-Regular-35" d="M 1466 -64 
+Q 1197 -64 982 -45 
+Q 768 -26 550 19 
+L 550 525 
+Q 800 461 1001 438 
+Q 1203 416 1459 416 
+Q 1734 416 1961 464 
+Q 2189 512 2349 624 
+Q 2509 736 2598 918 
+Q 2688 1101 2688 1376 
+Q 2688 1875 2397 2102 
+Q 2106 2330 1414 2330 
+Q 1235 2330 1004 2301 
+Q 774 2272 563 2234 
+L 864 4442 
+L 2938 4442 
+L 2938 3942 
+L 1299 3942 
+L 1114 2726 
+Q 1235 2746 1356 2755 
+Q 1478 2765 1632 2765 
+Q 2406 2765 2822 2445 
+Q 3238 2125 3238 1414 
+Q 3238 1018 3113 739 
+Q 2989 461 2758 281 
+Q 2528 102 2198 19 
+Q 1869 -64 1466 -64 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#AlibabaPuHuiTi-Regular-33"/>
+       <use xlink:href="#AlibabaPuHuiTi-Regular-35" x="57.499985"/>
+       <use xlink:href="#AlibabaPuHuiTi-Regular-2103" x="114.999969"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_4">
+     <g id="line2d_13">
+      <g>
+       <use xlink:href="#m88c014bb29" x="57.6" y="175.840786" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_13">
+      <!-- 36℃ -->
+      <g transform="translate(25.77125 180.400786)scale(0.12 -0.12)">
+       <use xlink:href="#AlibabaPuHuiTi-Regular-33"/>
+       <use xlink:href="#AlibabaPuHuiTi-Regular-36" x="57.499985"/>
+       <use xlink:href="#AlibabaPuHuiTi-Regular-2103" x="114.999969"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_5">
+     <g id="line2d_14">
+      <g>
+       <use xlink:href="#m88c014bb29" x="57.6" y="131.926381" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_14">
+      <!-- 37℃ -->
+      <g transform="translate(25.77125 136.486381)scale(0.12 -0.12)">
+       <use xlink:href="#AlibabaPuHuiTi-Regular-33"/>
+       <use xlink:href="#AlibabaPuHuiTi-Regular-37" x="57.499985"/>
+       <use xlink:href="#AlibabaPuHuiTi-Regular-2103" x="114.999969"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_6">
+     <g id="line2d_15">
+      <g>
+       <use xlink:href="#m88c014bb29" x="57.6" y="88.011977" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_15">
+      <!-- 38℃ -->
+      <g transform="translate(25.77125 92.571977)scale(0.12 -0.12)">
+       <use xlink:href="#AlibabaPuHuiTi-Regular-33"/>
+       <use xlink:href="#AlibabaPuHuiTi-Regular-38" x="57.499985"/>
+       <use xlink:href="#AlibabaPuHuiTi-Regular-2103" x="114.999969"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_7">
+     <g id="line2d_16">
+      <g>
+       <use xlink:href="#m88c014bb29" x="57.6" y="44.097572" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_16">
+      <!-- 39℃ -->
+      <g transform="translate(25.77125 48.657572)scale(0.12 -0.12)">
+       <defs>
+        <path id="AlibabaPuHuiTi-Regular-39" d="M 922 403 
+Q 1344 403 1661 518 
+Q 1978 634 2198 838 
+Q 2419 1043 2544 1318 
+Q 2669 1594 2701 1914 
+L 2675 1914 
+Q 2554 1779 2304 1664 
+Q 2054 1549 1728 1549 
+Q 1421 1549 1168 1632 
+Q 915 1715 739 1884 
+Q 563 2054 464 2320 
+Q 365 2586 365 2950 
+Q 365 3277 451 3561 
+Q 538 3846 717 4054 
+Q 896 4262 1171 4384 
+Q 1446 4506 1818 4506 
+Q 2125 4506 2390 4416 
+Q 2656 4326 2854 4115 
+Q 3053 3904 3168 3558 
+Q 3283 3213 3283 2701 
+Q 3283 2080 3148 1568 
+Q 3014 1056 2726 691 
+Q 2438 326 1990 124 
+Q 1542 -77 915 -77 
+L 922 403 
+z
+M 1747 1984 
+Q 2266 1984 2506 2224 
+Q 2746 2464 2746 2867 
+Q 2746 3430 2509 3731 
+Q 2272 4032 1818 4032 
+Q 1363 4032 1132 3753 
+Q 902 3475 902 2950 
+Q 902 2451 1139 2217 
+Q 1376 1984 1747 1984 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#AlibabaPuHuiTi-Regular-33"/>
+       <use xlink:href="#AlibabaPuHuiTi-Regular-39" x="57.499985"/>
+       <use xlink:href="#AlibabaPuHuiTi-Regular-2103" x="114.999969"/>
+      </g>
+     </g>
+    </g>
+   </g>
+   <g id="line2d_17">
+    <path d="M 73.832727 57.271893 
+L 77.095587 63.635933 
+L 80.249685 69.322685 
+L 83.403783 74.552168 
+L 86.449118 79.167436 
+L 89.385692 83.214161 
+L 92.213504 86.736384 
+L 94.932554 89.776515 
+L 97.542841 92.375334 
+L 100.153129 94.660969 
+L 102.654655 96.55749 
+L 105.047419 98.102411 
+L 107.440183 99.384172 
+L 109.724185 100.362182 
+L 112.008186 101.100411 
+L 114.292188 101.598859 
+L 116.467428 101.850647 
+L 118.642668 101.884946 
+L 120.817908 101.701758 
+L 122.993148 101.301081 
+L 125.168387 100.682916 
+L 127.452389 99.799772 
+L 129.736391 98.676847 
+L 132.129155 97.24327 
+L 134.521919 95.546533 
+L 137.023444 93.491295 
+L 139.52497 91.14843 
+L 142.135258 88.397044 
+L 144.854308 85.197987 
+L 147.68212 81.510482 
+L 150.509931 77.455422 
+L 156.056793 69.326069 
+L 158.667081 66.050576 
+L 161.168607 63.268504 
+L 163.56137 60.934287 
+L 165.845372 59.004337 
+L 168.129374 57.36562 
+L 170.304614 56.075699 
+L 172.479854 55.049935 
+L 174.546332 54.320134 
+L 176.61281 53.828735 
+L 178.570525 53.58311 
+L 180.528241 53.551453 
+L 182.485957 53.733762 
+L 184.443673 54.130039 
+L 186.510151 54.780459 
+L 188.576629 55.669281 
+L 190.643106 56.796505 
+L 192.818346 58.240609 
+L 194.993586 59.948871 
+L 197.277588 62.026844 
+L 199.670352 64.516135 
+L 202.063116 67.325055 
+L 204.564641 70.603407 
+L 207.174929 74.396758 
+L 209.893979 78.752655 
+L 212.721791 83.720629 
+L 215.658365 89.35219 
+L 220.87894 99.57172 
+L 222.836656 102.722899 
+L 224.68561 105.307322 
+L 226.534564 107.511245 
+L 228.274756 109.237941 
+L 229.906185 110.550608 
+L 231.428853 111.508492 
+L 232.951521 112.208321 
+L 234.365427 112.627097 
+L 235.779333 112.823367 
+L 237.193239 112.79713 
+L 238.607145 112.548387 
+L 240.021051 112.077137 
+L 241.543719 111.320798 
+L 243.066386 110.306404 
+L 244.697816 108.933191 
+L 246.329246 107.263741 
+L 248.069438 105.156476 
+L 249.918392 102.548199 
+L 250.788488 101.40037 
+L 251.549822 100.775817 
+L 252.202394 100.525423 
+L 252.854966 100.538049 
+L 253.507538 100.813694 
+L 254.16011 101.352359 
+L 254.921444 102.313228 
+L 255.682778 103.632096 
+L 256.552873 105.577738 
+L 257.531731 108.325503 
+L 258.619351 112.072653 
+L 259.815733 117.038373 
+L 261.229639 123.032928 
+L 261.773449 124.393991 
+L 262.208497 125.044105 
+L 262.643545 125.304229 
+L 262.969831 125.243392 
+L 263.296117 124.963186 
+L 263.731165 124.248338 
+L 264.274975 122.806355 
+L 264.927547 120.271624 
+L 265.688881 116.205407 
+L 266.776501 109.790343 
+L 267.102787 109.237226 
+L 267.320311 109.332863 
+L 267.537835 109.800007 
+L 267.864121 111.197296 
+L 268.299169 114.360619 
+L 268.842979 120.404495 
+L 271.235742 150.665629 
+L 273.519744 176.864406 
+L 275.694984 199.375735 
+L 277.761462 218.556673 
+L 279.719178 234.746424 
+L 281.568132 248.266339 
+L 283.308323 259.419915 
+L 284.939753 268.492799 
+L 286.462421 275.752782 
+L 287.876327 281.449804 
+L 289.181471 285.815952 
+L 290.377853 289.06546 
+L 291.465473 291.39471 
+L 292.444331 292.982228 
+L 293.314427 293.988692 
+L 294.075761 294.556923 
+L 294.837095 294.833558 
+L 295.489667 294.838587 
+L 296.142238 294.629382 
+L 296.79481 294.205943 
+L 297.556144 293.441162 
+L 298.42624 292.210071 
+L 299.405098 290.369846 
+L 300.383956 288.047595 
+L 301.471576 284.901977 
+L 302.667958 280.754462 
+L 303.973102 275.408671 
+L 305.387008 268.650368 
+L 306.909676 260.247468 
+L 308.541106 249.95003 
+L 313.652919 216.167483 
+L 316.589493 198.682092 
+L 319.417305 183.201395 
+L 322.136354 169.571757 
+L 324.63788 158.119734 
+L 327.030644 148.140599 
+L 329.314646 139.504357 
+L 331.489886 132.086918 
+L 333.665126 125.457337 
+L 335.622841 120.164333 
+L 337.580557 115.509494 
+L 339.429511 111.699226 
+L 341.169703 108.633078 
+L 342.801133 106.216507 
+L 344.323801 104.360878 
+L 345.737707 102.983467 
+L 347.042851 102.007457 
+L 348.347995 101.315076 
+L 349.544376 100.929554 
+L 350.740758 100.782359 
+L 351.93714 100.87349 
+L 353.133522 101.202949 
+L 354.329904 101.770735 
+L 355.526286 102.576848 
+L 357.266478 103.810758 
+L 358.789146 104.62589 
+L 360.311814 105.192798 
+L 361.834481 105.511481 
+L 363.248387 105.585315 
+L 367.598867 105.622123 
+L 374.015825 105.741138 
+L 376.843636 105.470368 
+L 379.671448 104.973731 
+L 382.49926 104.251227 
+L 385.327072 103.302855 
+L 388.046122 102.388698 
+L 390.656409 101.744555 
+L 393.266697 101.329441 
+L 395.876985 101.143355 
+L 398.487273 101.186298 
+L 398.487273 101.186298 
+" clip-path="url(#p8eb77f53d9)" style="fill: none; stroke: #92c6ff; stroke-width: 1.5; stroke-linecap: square"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 57.6 307.584 
+L 57.6 41.472 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 414.72 307.584 
+L 414.72 41.472 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 57.6 307.584 
+L 414.72 307.584 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 57.6 41.472 
+L 414.72 41.472 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p8eb77f53d9">
+   <rect x="57.6" y="41.472" width="357.12" height="266.112"/>
+  </clipPath>
+ </defs>
+</svg>
