@@ -29,7 +29,7 @@ font_manager.rcParams['font.sans-serif'] = prop.get_name()  # 根据名称设置
 font_manager.rcParams['font.size'] = 20  # 设置字体大小
 font_manager.rcParams['axes.unicode_minus'] = False  # 使坐标轴刻度标签正常显示正负号
 
-file = open('./COVID-19 感染记录.md', mode='r', encoding='utf-8')
+file = open('./README.md', mode='r', encoding='utf-8')
 content = file.read()
 data = re.findall(r'\| (\d\d\d\d-\d\d-\d\d \d\d:\d\d) \| (\d\d\.\d) \|', content)
 
@@ -52,9 +52,11 @@ y = data_map[data_map.notnull()['体温']]['体温'].to_list()
 f = interpolate.interp1d(x, y, kind=2)
 newy = f(data_map['index'].to_list())
 
+plt.figure(figsize=(10, 6))
 plt.plot(data_map.index, newy)
 plt.scatter(data_df['时间'], data_df['体温'], s=15, color='#FF9900')
-plt.xticks(rotation=0, size=8)
+plt.plot([min(data_map.index), max(data_map.index)], [37, 37])
+plt.xticks(rotation=0, size=12)
 yticks = range(33, 40)
 plt.yticks(yticks, [str(i) + '℃' for i in yticks], size=12)
 plt.savefig('pic.svg')
