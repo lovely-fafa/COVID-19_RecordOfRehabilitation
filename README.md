@@ -152,5 +152,5 @@
 
 
 
-<img src="./pic.svg" alt="pic" style="zoom:200%;" />
+<img src="./pic.svg" alt="pic" style="zoom:100%;" />
 
